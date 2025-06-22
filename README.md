@@ -21,9 +21,7 @@ A **DevLoad** é uma rede social de desktop desenvolvida em **Python**, criada p
 
 Veja abaixo uma demonstração visual do funcionamento da DevLoad:
 
-> *(Dica: Substitua o GIF abaixo por um vídeo ou gravação da sua aplicação com SimpleScreenRecorder, Peek, etc.)*
-
-![Funcionamento da DevLoad](https://raw.githubusercontent.com/henriquetourinho/devload/main/media/funciuonamento.gif)
+![Funcionamento da DevLoad](https://raw.githubusercontent.com/henriquetourinho/devload/main/media/funcionamento.gif)
 
 ---
 
