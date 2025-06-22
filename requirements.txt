@@ -1,0 +1,4 @@
+mysql-connector-python
+werkzeug
+Pillow
+requests
